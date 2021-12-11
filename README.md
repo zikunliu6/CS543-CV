@@ -7,7 +7,7 @@ This is the repo for cs543 computer vision final project
 - To run the training, do following:
 
 ```
-python main.py
+python rfgan.py
 ```
 
 - The dataset contains over 6000 heatmaps that was collected by us using FMCW Radar. 
